@@ -1,0 +1,3 @@
+com\bancos\hibernateandjpa\entity\Pessoa.class
+com\bancos\hibernateandjpa\Main.class
+com\bancos\hibernateandjpa\DAO\PessoaDAO.class
